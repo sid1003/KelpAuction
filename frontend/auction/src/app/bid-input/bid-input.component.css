@@ -1,0 +1,13 @@
+mat-label {
+    text-transform: uppercase;
+}
+
+mat-card{
+    overflow: hidden;
+}
+
+mat-card-title{
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+}

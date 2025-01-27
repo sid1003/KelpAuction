@@ -1,0 +1,41 @@
+.example-card {
+    width: 400px;
+    /* background-color: yellow; */
+    padding-bottom: 20px;
+  }
+  
+  .content {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .flexy {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+  mat-card-header h1{
+      /* background-color: aqua; */
+      text-align: center;
+      font-weight: 500;
+    } 
+  
+  button {
+      width: auto;
+      align-self: center; 
+    }
+  
